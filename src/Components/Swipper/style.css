@@ -1,0 +1,28 @@
+
+.swiper {
+  width: 90vw;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  /* border:1px solid black; */
+  margin-top: 40px;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+  /* color: rgb(228, 228, 228); */
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
