@@ -37,7 +37,7 @@ export default function NavBar() {
         <Toolbar
           sx={{
             width: "80vw",
-            height: "51px",
+            height: "50px",
             display: "flex",
             justifyContent: "center",
             alignItems: "center",
